@@ -1,0 +1,295 @@
+  @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+
+  * {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+  }
+
+  .body {
+       background-color: rgba(255, 255, 255, 1);
+  }
+
+  .navbarlogo {
+       display: flex;
+       align-items: center;
+  }
+
+  .container {
+       width: 1440px;
+       height: auto;
+       border: 2px solid rgba(253, 251, 245, 1);
+       margin: auto;
+       background-color: rgba(253, 251, 245, 1);
+  }
+
+  .stnavbar {
+       width: 1170px;
+       margin: auto;
+       height: 71px;
+       display: flex;
+  }
+
+  .stnavbar ul {
+       display: flex;
+       gap: 50px;
+       list-style: none;
+       margin-left: 137px;
+       align-items: center;
+       font-family: sans-serif;
+       font-weight: 500;
+       transform: 1s;
+
+  }
+
+  .stnavbar ul li {
+       transform: 1s;
+
+  }
+
+  .stnavbar ul li a:hover {
+       color: black;
+       font-weight: 600;
+       border-bottom: 2px solid black;
+  }
+
+  .stnavbar ul a {
+       text-decoration: none;
+       color: black;
+  }
+
+  .stnavbar ul li:nth-child(6) {
+       margin-left: -80px;
+  }
+
+  .stnavbar ul li:nth-child(3) {
+       display: flex;
+       justify-content: space-between;
+  }
+
+  .arr {
+       margin-top: -2px;
+       margin-left: 2px;
+  }
+
+  .stnavbut button {
+       width: 130px;
+       height: 40px;
+       border-radius: 5px;
+       background-color: black;
+       margin-left: 20px;
+       margin-top: 10px;
+       color: white;
+       font-size: 16px;
+       font-weight: 600;
+       margin-right: 20px;
+  }
+
+  .line2 {
+       margin-top: 20px;
+  }
+
+  .socialicon {
+       margin-top: 10px;
+       margin-left: 20px;
+  }
+
+  .chiziq {
+       width: 1300px;
+       height: auto;
+       border: 2px solid rgba(0, 0, 0, 1);
+       margin-top: 60px;
+       margin-left: 70px;
+  }
+
+  .stmain_hr {
+       width: 1170px;
+       margin: auto;
+  }
+
+  .image {
+       margin-left: 60px;
+       margin-top: 50px;
+  }
+
+  .stmain_h1 {
+       font-size: 40px;
+       font-family: Syne;
+       margin-left: 300px;
+       position: absolute;
+       top: 300px;
+  }
+
+  .group5 {
+       margin-left: 940px;
+       position: absolute;
+       top: 250px;
+  }
+
+  .stmain_pa {
+       margin-top: 240px;
+       margin-left: 60px;
+  }
+
+  .zip button {
+       width: 200px;
+       height: 50px;
+       background-color: black;
+       border-radius: 5px;
+       color: white;
+       margin-top: 40px;
+  }
+
+  .scroll {
+       margin-left: 500px;
+  }
+
+  .img1 {
+       margin-left: 600px;
+       margin-top: -310px;
+  }
+
+  .grop6 {
+       margin-top: -80px;
+  }
+
+  .ndnavbar {
+       margin: auto;
+       width: 1170px;
+       margin-top: 50px;
+       height: 241px;
+       display: flex;
+
+  }
+
+  .ndnavbar_hr {
+       width: 1170px;
+       margin-top: 60px;
+       margin-left: 60px;
+
+  }
+
+  .ndnavbar_hr2 {
+       width: 1170px;
+       margin-top: 55px;
+       margin-left: 60px;
+
+  }
+
+  .ndmain_ul {
+       list-style: none;
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       gap: 80px;
+  }
+
+  .ndmain_p {
+       margin-top: 50px;
+       letter-spacing: 5px;
+       margin-left: 60px;
+  }
+
+  .ndmain_h1 {
+       margin-left: 60px;
+       font-family: Syne;
+       margin-top: 5px;
+  }
+
+
+  .ndmain_button button {
+       width: 240px;
+       height: 50px;
+       background-color: #000000;
+       color: #FFFFFF;
+       border-color: transparent;
+       font-size: 15px;
+       font-family: sans-serif;
+       margin-top: 30px;
+  }
+
+  .group7 {
+       margin-top: 450px;
+       margin-top: 200px;
+       position: absolute;
+  }
+
+  .rectangle {
+       margin-left: 500px;
+       margin-top: -300px;
+       z-index: 10;
+  }
+.allllll{
+     margin-top: 00px;
+     position: relative;
+}
+  h2 {
+       margin-left: 520px;
+       color: white;
+       margin-top: -250px;
+       z-index: 25;
+       position: absolute;
+  }
+
+  .hvyhvhkrgitbutton button {
+       width: 90px;
+       height: 30px;
+       background-color: white;
+       border-color: transparent;
+       font-size: 15px;
+       margin-left: 1040px;
+       position: absolute;
+       z-index: 20;
+       margin-top: -250px;
+  }
+
+  .portfolio {
+       margin-left: 500px;
+     margin-top: 15px;
+     }
+
+  .nigkhlbghmuigyfn hr {
+       width: 670px;
+       margin-left: 500px;
+       margin-top: 0px;
+  }
+
+  .nigkhlbghmuigyfns {
+       width: 670px;
+       margin-left: 500px;
+       margin-top: 15px;
+  }
+
+  .portfolio3 {
+       margin-left: 500px;
+       margin-top: 100px;
+       position: absolute;
+  }
+
+  .line13 {
+       position: absolute;
+       margin-left: 450px;
+       margin-top: -770px;
+  }
+
+  .dkvxnkvhjkybvhyngkh {
+       width: 1170px;
+       margin-top: 50px;
+  }
+
+
+  .ndmain_02p {
+     margin-top: 50px;
+     letter-spacing: 5px;
+     margin-left: 60px;
+}
+
+.ndmain_02h1 {
+     margin-left: 60px;
+     font-family: Syne;
+     margin-top: 5px;
+}
+.ndmain_p202{
+     margin-left: 60px;
+     margin-top: 15px;
+}
